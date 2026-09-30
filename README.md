@@ -41,6 +41,10 @@ Some of my learning and academic projects:
 - 🌐 Personal Profile Webpage
 - 💻 Java OOP Programs
 - 📱 Student-focused problem-solving projects
+-  V² Digital Agency
+-  A full-stack digital agency platform for managing services, plans, payments and customer interactions.
+
+Tech: Node.js • Express.js • MongoDB • JavaScrip.
 
 ## 📈 My Learning Journey
 
