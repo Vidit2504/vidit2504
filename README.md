@@ -1,4 +1,9 @@
-﻿# 👋 Hi, I'm Vidit Jain
+﻿<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Impact&weight=800&size=48&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=650&lines=HI%2C+I'M+VIDIT+JAIN;FULL+STACK+DEVELOPER;AI+INTEGRATION+ENTHUSIAST"
+    alt="Typing SVG"
+  />
+</p>
 
 🎓 MCA Student | 💻 Aspiring IT Professional | 🚀 Learning & Building
 
